@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "arq",
+  "versions": [
+    {
+      "commit": "5ee4b48cf6faf4dc181f1ccb76dfb1bc1fedf9bf",
+      "tag": "v0.28.0",
+      "parsed_at": "2026-10-12T22:03:12.731151+00:00"
+    }
+  ]
+}
