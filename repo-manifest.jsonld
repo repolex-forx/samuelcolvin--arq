@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/arq/commit/5ee4b48cf6faf4dc181f1ccb76dfb1bc1fedf9bf",
       "git:hexsha": "5ee4b48cf6faf4dc181f1ccb76dfb1bc1fedf9bf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.28.0"
     },
     {
